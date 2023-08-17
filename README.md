@@ -1,5 +1,5 @@
 My ![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg) visitor
-##  I’m JollyCorivuG 👋
+###  I’m JollyCorivuG 👋
 ---
 - 🔭 I'm a Beijing University of Posts and Telecommunications Computer Science Major
 - 😄 Technology Stack: backend - **java > golang > cpp**, frontend - **vue**
@@ -9,5 +9,5 @@ My ![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg) vi
 - 📫 How to reach me: 1547676099@qq.com
 - ⚡ Fun fact: Basketball, Billiards, CSGO
 
-## About My Github
+### About My Github
 
