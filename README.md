@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg)
 ### Hi there 👋
 
 <!--
