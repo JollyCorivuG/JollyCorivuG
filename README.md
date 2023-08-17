@@ -10,4 +10,5 @@ My ![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg) vi
 - ⚡ Fun fact: Basketball, Billiards, CSGO
 
 ### About My Github
+---
 ![JollyCorivuG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JollyCorivuG&show_icons=true&theme=tokyonight)
