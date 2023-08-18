@@ -11,4 +11,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg) vi
 
 ### About My Github
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyCorivuG&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
 ![JollyCorivuG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JollyCorivuG&show_icons=true&theme=tokyonight)
