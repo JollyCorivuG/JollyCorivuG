@@ -11,5 +11,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/JollyCorivuG/count.svg) vi
 
 ### About My Github
 ---
-
 ![JollyCorivuG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JollyCorivuG&show_icons=true&theme=tokyonight)
+
+### Recent Summary
+---
+[![JollyCorivuG's GitHub | Languages Over Time](https://stats.quine.sh/JollyCorivuG/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JollyCorivuG)
